@@ -3158,3 +3158,4 @@ ZTO	Zto Express [Cayman] Inc
 ZTR	Zweig Total Return Fund
 ZTS	Zoetis Inc Class A
 ZX	China Zenix Auto International
+EURUSD
